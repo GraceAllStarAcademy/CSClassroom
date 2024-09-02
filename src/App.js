@@ -10,7 +10,7 @@ import PrivateRoute from './components/PrivateRoute';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/CSClassroom">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
