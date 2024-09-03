@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Home.css'; 
 
 const Home = () => {
@@ -54,7 +55,7 @@ const Home = () => {
         <div className="bio-content">
           <img src='/src/my_photo.jpg' alt="" className="teacher-photo" />
           <p>Hi, I'm Mr. Jeff, a passionate educator with a deep love for computer science. My goal is to inspire students to become the next generation of innovators and problem-solvers.</p>
-          <a href="/portal" className="cta-button">Schedule a Meeting with Me</a>
+          <Link to="/portal" className="cta-button">Schedule a Meeting with Me</Link>
         </div>
       </section>
 

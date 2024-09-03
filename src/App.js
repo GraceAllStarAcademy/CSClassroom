@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import StudentShowcase from './pages/StudentShowcase';
 import Blog from './pages/Blog';
 import ParentPortal from './pages/ParentPortal';
+import ScheduleMeeting from './pages/ScheduleMeeting';
 import Login from './components/Login';
 import Navbar from './components/Navbar';
 import PrivateRoute from './components/PrivateRoute';
@@ -25,10 +26,17 @@ function App() {
             </PrivateRoute>
           }
         />
+        <Route
+          path="/schedule-meeting"
+          element={
+            <PrivateRoute>
+              <ScheduleMeeting />
+            </PrivateRoute>
+          }
+        />
       </Routes>
     </Router>
   );
 }
 
 export default App;
-
