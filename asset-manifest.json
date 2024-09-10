@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CSClassroom/static/css/main.1cdb38b1.css",
-    "main.js": "/CSClassroom/static/js/main.6bec3aea.js",
+    "main.css": "/CSClassroom/static/css/main.929f094c.css",
+    "main.js": "/CSClassroom/static/js/main.e674468a.js",
     "static/js/453.c79afec9.chunk.js": "/CSClassroom/static/js/453.c79afec9.chunk.js",
     "static/media/my_photo.jpg": "/CSClassroom/static/media/my_photo.f8d1e62f6e5e74846180.jpg",
     "static/media/learning_CS.jpg": "/CSClassroom/static/media/learning_CS.42c5fc3aef5b0fb4a940.jpg",
     "index.html": "/CSClassroom/index.html",
-    "main.1cdb38b1.css.map": "/CSClassroom/static/css/main.1cdb38b1.css.map",
-    "main.6bec3aea.js.map": "/CSClassroom/static/js/main.6bec3aea.js.map",
+    "main.929f094c.css.map": "/CSClassroom/static/css/main.929f094c.css.map",
+    "main.e674468a.js.map": "/CSClassroom/static/js/main.e674468a.js.map",
     "453.c79afec9.chunk.js.map": "/CSClassroom/static/js/453.c79afec9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cdb38b1.css",
-    "static/js/main.6bec3aea.js"
+    "static/css/main.929f094c.css",
+    "static/js/main.e674468a.js"
   ]
 }
